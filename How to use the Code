@@ -1,0 +1,6 @@
+Coding was done in VSCode
+
+If u want to use the same code:
+First, u need to get data [I got it from Kaggle] and try to get as much data as possible
+Second, u need to set up an environment in VSCode as it will contain the needed libraries. You can use Chat GPT or DeepSeek.
+Third, you need to import the needed libraries, like torch, pandas,.. [Just copy the first cell of my code and ask Chat GPT to give u a code to download the corresponding libraries, and do not forget to say that you are using VScode]
